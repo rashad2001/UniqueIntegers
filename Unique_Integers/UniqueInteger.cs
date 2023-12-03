@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Unique_Integers
 {
-    public class UniqueInt
+    public class UniqueInteger
     {
-        public UniqueInt() { }
+        public UniqueInteger() { }
         public List<int> GetUniqueElements(List<int> inputList)
         {
             var uniqueList = new List<int> { };
